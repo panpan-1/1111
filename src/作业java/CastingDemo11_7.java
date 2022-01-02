@@ -1,7 +1,7 @@
-package 作业java;
+package 浣滀笟java;
 
-import 作业java.CircleFromSimpleGeometricObject11_2;
-import 作业java.RectangleFromSimpleGeometricObject11_3;
+import 浣滀笟java.CircleFromSimpleGeometricObject11_2;
+import 浣滀笟java.RectangleFromSimpleGeometricObject11_3;
 
 public class CastingDemo11_7 {
     public static void main(String[] args) {
@@ -21,6 +21,3 @@ public class CastingDemo11_7 {
         }
     }
 }
-————————————————
-版权声明：本文为CSDN博主「白水泡糖」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/ych23333/article/details/109606760
